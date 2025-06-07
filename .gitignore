@@ -1,2 +1,4 @@
 .venv
 my_mnist.data
+images/
+bach_*.wav
